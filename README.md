@@ -10,7 +10,7 @@
 
 ## 🚀 在线 Demo
 
-- **线上地址**：部署到 GitHub Pages 后填到这里 → `https://<licarhart>.github.io/<fanruan-course-select-assistant>/demo/`
+- **线上地址**：部署到 GitHub Pages 后填到这里 → `https://licarhart.github.io/fanruan-course-select-assistant/demo/`
 - **本地打开**：直接双击 `demo/index.html` 即可运行（数据内联、无需服务器）。
 
 四页 SPA：**点评社区 / 课程库 / 我的选课 / 课程详情**，含完整匹配引擎与四个 AI 触点（见下）。
